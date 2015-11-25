@@ -12,6 +12,8 @@ import org.koushik.javabrains.messenger4.model.Message;
 import org.koushik.javabrains.messenger4.service.MessageService;
 
 /**
+ * REST Web Services 17 - Accessing Path params
+ * 这张讲解添加subpath的方法
  * http://localhost:8080/messenger4/webapi/messages
  * http://localhost:8080/messenger4/webapi/messages/1
  * http://localhost:8080/messenger4/webapi/messages/2
